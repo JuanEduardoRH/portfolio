@@ -16,10 +16,13 @@
 ### [Ver demo](https://restoapp.typingideas.com)
 
 usuario: example@example.com \
-password: admin-ad
+password: 1234567890-
 
-usuario: juan@cliente.com \
-password: juan123
+usuario: cocina@cocina.com \
+password: 1234567890-
+
+usuario: garzon@garzon.com \
+password: 1234567890-
 
 ---
 
