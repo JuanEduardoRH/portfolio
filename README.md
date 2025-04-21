@@ -13,6 +13,16 @@
 
 # Restoran APP
 
+### [Ver demo](https://restoapp.typingideas.com)
+
+usuario: example@example.com \
+password: admin-ad
+
+usuario: juan@cliente.com \
+password: juan123
+
+---
+
 Este proyecto fue desarrollado con el objetivo de demostrar mis habilidades como desarrollador Full Stack, abordando la creación de un sistema integral para la gestión de un restaurante. La plataforma cubre áreas clave como la administración de mesas, la gestión de comandas en cocina y bar, y el control de productos, órdenes y categorías. Todo esto construido con tecnologías modernas como Laravel 11 y React 18, utilizando buenas prácticas de desarrollo.
 
 ## Sección de mesas  
