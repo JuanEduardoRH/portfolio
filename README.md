@@ -15,7 +15,7 @@
 
 ### [Ver demo](https://restoapp.typingideas.com)
 
-usuario: example@example.com \
+usuario: admin@admin.com \
 password: 1234567890-
 
 usuario: cocina@cocina.com \
@@ -72,8 +72,10 @@ Funcionalidades del proyecto:
 La cantidad de dependencias puede ser mayor en el lado del front-end.
 
 - Laravel 11  
-- Laravel Sanctum (Auth API)  
-- Tailwind v3  
+- Laravel Sanctum (Auth API) 
+- Tailwind v3
+- Shadcn
+- React Hook Form
 - React v18  
 - React Query  
 - React Router  
