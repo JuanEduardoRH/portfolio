@@ -68,12 +68,9 @@ La cantidad de dependencias puede ser mayor en el lado del front-end.
 
 ## Futuras implementaciones
 
-- Separación de vistas por rol  
-- Implementación de autenticación  
 - Sección de perfil  
   - Mis ventas  
   - Mi cuenta  
-  - Cerrar sesión  
 - Mantenedor de usuarios  
 - Sección de movimientos (ingresos, egresos)  
 - Sección de reportes (gráficos)  
