@@ -104,7 +104,7 @@ La cantidad de dependencias puede ser mayor en el lado del front-end.
 
 # Megabyte Ecommerce
 
-### [Ver demo](http://ecommerce-megabyte.typingideas.com)
+### [Ver demo](http://ecommerce-megabyte.typingidea.com)
 
 usuario: admin@admin.com \
 password: admin-ad
