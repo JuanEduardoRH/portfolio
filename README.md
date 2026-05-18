@@ -13,7 +13,7 @@
 
 # Restoran APP
 
-### [Ver demo](https://restoapp.typingideas.com)
+### [Ver demo](https://restoapp.typingidea.com)
 
 usuario: admin@admin.com \
 password: 1234567890-
