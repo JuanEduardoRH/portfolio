@@ -176,7 +176,7 @@ La cantidad de dependencias puede ser mayor por el lado del front-end.
 
 # Pegas & Pitutos
 
-### [Ver demo](https://pitutos.typingideas.com)
+### [Ver demo](https://pitutos.typingidea.com)
 
 usuario: empleador3@empleador.com \
 password: 12345678
@@ -254,7 +254,7 @@ Es importante que el trabajador pueda mostrar todas sus habilidades y en los tra
 
 # Realtime chat app - Pausado
 
-### [Ver demo](http://laravel-websocket.typingideas.com)
+### [Ver demo](http://laravel-websocket.typingidea.com)
 
 usuario: example@example.com \
 password: 12345678
